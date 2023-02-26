@@ -42,11 +42,17 @@ This is the greatest thing to get started...
 Since SuiteCRM has many tables the project gets very large. We are providing a *sample* project repository with 10 tables to get you started. Then extend it by copying more table related folders and files, as many needed, from *full* repository.
 
 > **Tip** : 
-> Start with downloading and setting up suitecrm-easymanage-sample repository!
+> Start with downloading and setting up suitecrm-easymanage sample repository!
 
 
 > **Caution** :
-> Downloading and setting up suitecrm-easymanage-full repository requires more computer and internet resources, needs to allocate higher memory sizes for heap/etc. Its > better to set it up on large server computer.
+> Downloading and setting up suitecrm-easymanage-full repository requires more computer and internet resources, needs to allocate higher memory sizes for heap/etc. Its better to set it up on large server computer.
 >
 > Rather than running *full* projects, copy table-related folders/files to *sample* project and run.
 
+
+### Get started here
+
+To setup and try out this repository, Please follow documentations at:
+* EasyManage Docs [Deploy Self-Hosted] (https://easymanage.com/res/docs/start-building#self-hosted)
+* Github Tutorial pages [Learn EasyManage](https://github.com/TeamEasymanage/learn-easymanage) section [A. Build With EasyManage](https://github.com/TeamEasymanage/learn-easymanage#a-build-with-easymanage)
